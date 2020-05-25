@@ -4,5 +4,5 @@ email: kmcmillan@postgresql.us
 description: > # this means to ignore newlines until "baseurl:"
   “Alright stop. Collaborate and listen!” – Vanilla Ice
 
-
+theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
